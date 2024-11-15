@@ -1,0 +1,23 @@
+- id: 1
+  title: "GIS Analyst"
+  company: "GeoTech Solutions"
+  location: "New York, NY"
+  type: "Full-time"
+  description: "We are seeking a skilled GIS Analyst to join our team..."
+  requirements:
+    - "Bachelor's degree in GIS or related field"
+    - "2+ years of experience with ESRI ArcGIS"
+  posted: "2023-06-01"
+  applyUrl: "https://example.com/apply/1"
+
+- id: 2
+  title: "Remote Sensing Specialist"
+  company: "EarthObserve Inc."
+  location: "Remote"
+  type: "Remote"
+  description: "Join our team as a Remote Sensing Specialist and work on cutting-edge projects..."
+  requirements:
+    - "Master's degree in Remote Sensing or related field"
+    - "Experience with satellite imagery analysis"
+  posted: "2023-06-15"
+  applyUrl: "https://example.com/apply/2"
