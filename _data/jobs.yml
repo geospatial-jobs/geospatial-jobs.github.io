@@ -93,7 +93,7 @@
   contactEmail: "recruit@navitech.jp"
   visaSponsorship: "Available, Japanese language proficiency required"
 
-- id: 3
+- id: 6
   title: "Open Position"
   company: "Sensat"
   location: "Remote"
@@ -125,7 +125,7 @@
   equalOpportunity: |
     Sensat is proud to be an equal opportunity employer. We do not discriminate based on race, ethnicity, colour, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran status, genetic information, marital status or any other legally protected status.
 
-- id: 4
+- id: 7
   title: "Senior Full Stack Engineer"
   company: "URBAN SDK"
   location: "🇺🇸 United States"
