@@ -4,9 +4,7 @@ company: "Geo Solutions Inc"
 location: "🇺🇸 United States"
 type: "Remote"
 description: "Looking for an experienced GIS developer to join our team working on cutting-edge mapping solutions. Looking for an experienced GIS developer to join our team working on cutting-edge mapping solutions. Looking for an experienced GIS developer to join our team working on cutting-edge mapping solutions."
-requirements:
-
-"5+ years experience with GIS"
+requirements: "5+ years experience with GIS"
 "Strong Python skills"
 "Experience with QGIS/ArcGIS" desirable:
 "Experience with cloud-based GIS solutions"
@@ -18,9 +16,7 @@ company: "MapTech"
 location: "🇬🇧 United Kingdom"
 type: "Hybrid"
 description: "Join our spatial analytics team to work on challenging geospatial problems."
-requirements:
-
-"3+ years in spatial analysis"
+requirements: "3+ years in spatial analysis"
 "R or Python"
 "PostGIS experience" desirable:
 "Experience with big data technologies (e.g., Apache Spark)"
@@ -185,15 +181,7 @@ title: "Software Engineer Full Stack C# .Net React C#.NET 🏆"
 company: "Client Server"
 location: "London"
 type: "Hybrid"
-description: |
-At Client Server we are looking for a C#.NET engineer!
-
-🛠️ Our tech stack:
-AWS, Azure, Backend, C#, Cloud, React, microservices, ASP.NET, .NET
-
-📝 Requirements:
-
-Strong C# .Net Core backend development experience
+description: Strong C# .Net Core backend development experience
 Front end development experience with React
 Good knowledge of microservices and experience with Cloud (Azure or AWS)
 Strong analytical and problem-solving skills
@@ -241,9 +229,7 @@ A Mid - Senior Software Engineer, Full stack, AI, TypeScript is needed to join a
 The company is already generating crazy amounts of revenue each month and is profitable in less than one year! They have built a AI technology which is integrated into their website and has generated huge amounts of traffic, through social media.
 
 They are now looking for a talented Software / Full-stack engineer to work closely with the Founder and other Senior Tech leaders for the company, 4 in total. You will have close contact with experts in their field, across the Front-end, Back-end, any beyond, wearing many hats as they continue to scale the platform!
-requirements:
-
-"3 years+ commercial experience"
+requirements: "3 years+ commercial experience"
 "Demonstrated excellence and passion within Software engineering (ideally through personal projects or active github page)"
 "Ideally looking for exposure to the following stack, but not a requirement if someone is confident on picking it up quickly: FrontEnd - Experience with Next.js and Tailwind ideally, but will consider React experience | BackEnd - Experience with Node.js, Python, MongoDB, AWS services"
 "Passion for user experience and design, ideally B2C experience"
@@ -466,15 +452,7 @@ title: "Software Engineer Full Stack C# .Net React C#.NET 🏆"
 company: "Client Server"
 location: "London"
 type: "Hybrid"
-description: |
-At Client Server we are looking for a C#.NET engineer!
-
-🛠️ Our tech stack:
-AWS, Azure, Backend, C#, Cloud, React, microservices, ASP.NET, .NET
-
-📝 Requirements:
-
-Strong C# .Net Core backend development experience
+description: Strong C# .Net Core backend development experience
 Front end development experience with React
 Good knowledge of microservices and experience with Cloud (Azure or AWS)
 Strong analytical and problem-solving skills
@@ -522,9 +500,7 @@ A Mid - Senior Software Engineer, Full stack, AI, TypeScript is needed to join a
 The company is already generating crazy amounts of revenue each month and is profitable in less than one year! They have built a AI technology which is integrated into their website and has generated huge amounts of traffic, through social media.
 
 They are now looking for a talented Software / Full-stack engineer to work closely with the Founder and other Senior Tech leaders for the company, 4 in total. You will have close contact with experts in their field, across the Front-end, Back-end, any beyond, wearing many hats as they continue to scale the platform!
-requirements:
-
-"3 years+ commercial experience"
+requirements: "3 years+ commercial experience"
 "Demonstrated excellence and passion within Software engineering (ideally through personal projects or active github page)"
 "Ideally looking for exposure to the following stack, but not a requirement if someone is confident on picking it up quickly: FrontEnd - Experience with Next.js and Tailwind ideally, but will consider React experience | BackEnd - Experience with Node.js, Python, MongoDB, AWS services"
 "Passion for user experience and design, ideally B2C experience"
@@ -555,12 +531,7 @@ title: "TypeScript Full Stack Developer (NodeJS leaning)"
 company: "Revolution Technology"
 location: "United Kingdom"
 type: "Contract"
-description: |
-Our client are a small consultancy who have just started working with a new customer, they are on the lookout for a Full Stack TypeScript Developer to come in on a contract basis.
-
-Key Skills/Requirements:
-
-Must have strong TypeScript development experience
+description: Must have strong TypeScript development experience
 NodeJS & ReactJS experience, ideally more Back End leaning
 AWS experience
 Financial Projects experience nice to have
