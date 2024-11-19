@@ -92,3 +92,109 @@
   applyUrl: "https://navitech.jp/careers"
   contactEmail: "recruit@navitech.jp"
   visaSponsorship: "Available, Japanese language proficiency required"
+
+  - id: 3
+  title: "Open Position"
+  company: "Sensat"
+  location: "Remote"
+  type: "Remote"
+  description: |
+    45 of the top 100 construction companies use Sensat to unlock the complexities of the physical world by digitising real-world locations.
+    These digital replicas are helping leading infrastructure companies, such as M25, Network Rail and HS2, analyse and understand project data to make smarter decisions on building and infrastructure requirements while also improving safety, cost-efficiency, project collaboration and reducing waste for a more sustainable built environment.
+    We’re committed to building a sustainable business that can help create a sustainable world.
+    Sensat has raised \$20m+ in venture funding, was named in Sifted top 50 startups in 2021 and Otta’s Rocket list for companies to accelerate your career. We’re financially secure and committed to creating career development opportunities for all our team members.
+    As a growing start-up, we are always looking for exceptional people, but we know that doesn't always fit into a job description or title!
+    So, if you are looking to make an impact at a mission-driven organisation, please drop a copy of your CV / or write us a note. We can't promise we will have the perfect role for you, but we’d love to hear from you!
+  requirements: []
+  desirable: []
+  posted: "2024-11-19"
+  deadline: "Not specified"
+  applyUrl: "Not specified"
+  contactEmail: "Not specified"
+  visaSponsorship: "Not specified"
+  benefits:
+    - "4 day week. That’s right, we don't do Fridays round here!"
+    - "22 days holiday (not including bank holidays or Fridays)"
+    - "The ability to Work from Anywhere"
+    - "Experienced, fun and friendly team with a wealth of knowledge to share"
+    - "Freedom and responsibility from day 1 to forge your own path"
+    - "A brand spanking new Mac and a WFH budget to set up your own space just how you like it"
+    - "£500 per year personal training budget"
+    - "Regular in-person social events - in the last few months we’ve had a casino night, cocktail masterclass, gospel choir, pub quiz, karaoke contest and of course Senfest…"
+    - "Dog-friendly office with a fully stocked bar 😜"
+  equalOpportunity: |
+    Sensat is proud to be an equal opportunity employer. We do not discriminate based on race, ethnicity, colour, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran status, genetic information, marital status or any other legally protected status.
+
+- id: 4
+  title: "Senior Full Stack Engineer"
+  company: "URBAN SDK"
+  location: "🇺🇸 United States"
+  type: "Remote"
+  description: |
+    As a **Senior Full Stack Engineer** at UrbanSDK, you will take a leading role in developing and maintaining both the backend and frontend components of our web applications. You will leverage your expertise in **Python** for backend development and **React** or **Next.js** for modern, responsive frontend interfaces. You will design robust systems for data workflows, handle large-scale data processing, and work with advanced geospatial technologies. This role is ideal for an experienced professional with a deep understanding of both backend and frontend technologies, eager to deliver high-quality, scalable, and user-friendly software solutions.
+
+    **Key Responsibilities**
+
+    **Backend Development**:
+
+    * Develop and maintain backend services using **Python**, leveraging frameworks such as **Flask** and **SQLAlchemy** for ORM.
+    * Implement data workflows and processing pipelines using tools like **Pandas**, **GeoPandas**, and **PySpark**.
+    * Integrate data formats, including **Parquet Shapefiles**, **GeoJSON**, and **CSV**, into application pipelines.
+
+    **Frontend Development**:
+
+    * Design and implement user-friendly and responsive frontend interfaces using **React** or **Next.js**.
+    * Work with modern JavaScript, CSS, and libraries to create interactive, dynamic web applications.
+    * Leverage mapping libraries such as **Mapbox** and **Mapbox-GL** for geospatial data visualization.
+
+    **Workflow Tasking Systems**:
+
+    * Design and develop systems to automate complex workflows and build analytics pipelines for detecting anomalies and thresholds.
+
+    **Big Data Processing**:
+
+    * Utilize big data technologies like **Apache Spark (PySpark)** to handle and analyze large datasets efficiently.
+    * Develop and manage flat file data lakes for optimized storage and retrieval in big data contexts.
+
+    **Database Management**:
+
+    * Manage and optimize databases, particularly with **PostgreSQL** and **PostGIS**, for advanced geospatial data storage and queries.
+
+    **Cloud Integration and DevOps**:
+
+    * Containerize applications using **Docker** and manage orchestration with **Kubernetes**.
+    * Deploy and manage applications on **AWS**, leveraging cloud services for scalability and performance.
+    * Collaborate with DevOps teams to enhance infrastructure reliability and efficiency.
+
+    **Team Collaboration and Mentorship**:
+
+    * Work closely with UX/UI designers, data scientists, and developers to ensure cohesive and high-quality application delivery.
+    * Mentor junior developers, providing technical guidance and fostering a culture of innovation and collaboration.
+
+    **Qualifications**
+
+    **Must-Haves**:
+
+    * **Backend Expertise**: Strong proficiency in **Python** with experience in **Flask**, **SQLAlchemy**, and data processing.
+    * **Frontend Expertise**: Proven experience in **React**, **Next.js**, modern JavaScript (ES6+), CSS, and responsive design.
+    * **Soft Skills**: Strong problem-solving, communication, and teamwork abilities.
+
+    **Nice-to-Haves**:
+
+    * Experience with **RabbitMQ** for messaging and task queuing.
+    * Familiarity with frontend libraries for advanced UI design and animation.
+    * Additional experience with **Kubernetes**, **Docker**, and **AWS** deployment.
+    * **Geospatial Expertise**: Experience with **PostGIS**, geospatial data formats (e.g., shapefiles, GeoJSON), and mapping libraries (e.g., **Mapbox**, **Mapbox-GL**).
+    * **Big Data**: Hands-on experience with **Apache Spark (PySpark)** for large-scale data processing.
+  requirements:
+    - "5+ years experience with GIS"
+    - "Strong Python skills"
+    - "Experience with QGIS/ArcGIS"
+  desirable:
+    - "Experience with cloud-based GIS solutions"
+    - "Familiarity with machine learning applications in GIS"
+  posted: "2024-01-10"
+  deadline: "2024-02-10"
+  applyUrl: "https://geosolutions.com/apply"
+  contactEmail: "jobs@geosolutions.com"
+  visaSponsorship: "Available for qualified candidates"
